@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Mac",
+            "name": "hx711",
             "includePath": [
                 "${workspaceFolder}/**",
                 "/Users/pioneer/Downloads/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
